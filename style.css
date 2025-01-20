@@ -1,4 +1,4 @@
-body{
+nobody{
   background-color: antiquewhite;
 }
 #nav1{
@@ -42,4 +42,7 @@ div{
 footer{
   border: 5px solid black;
   padding: 1em;
+}
+article{
+background-color: tomato;
 }
